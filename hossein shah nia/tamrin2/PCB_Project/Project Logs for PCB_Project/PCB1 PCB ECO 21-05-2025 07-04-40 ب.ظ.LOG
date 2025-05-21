@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R2-3
+Added Component: Designator=R2(VOL_R)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "POT10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-3
